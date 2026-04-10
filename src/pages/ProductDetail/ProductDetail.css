@@ -118,6 +118,7 @@
 
 .mater {
     display: flex;
+    gap: 16px;
 }
 
 .mater p {
@@ -136,6 +137,7 @@
 
 .finish {
     display: flex;
+    gap: 16px;
 }
 
 .finish p {
@@ -159,5 +161,36 @@
     line-height: 20px;
     letter-spacing: 0px;
     vertical-align: middle;
+}
 
+.about-addcart button {
+    width: 450.7299499511719px;
+    height: 60px;
+    gap: 12px;
+    border-radius: 8px;
+    background: linear-gradient(135deg, #446657 0%, #385A4B 100%);
+    color: #E5FFF0;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Semi Bold;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 1.4px;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: uppercase;
+    border: none;
+    margin-top: 32px;
+}
+
+.last-p {
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    text-align: center;
+    vertical-align: middle;
+    color: #5B6061;
 }

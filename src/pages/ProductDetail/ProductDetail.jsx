@@ -31,6 +31,10 @@ function ProductDetail() {
                         <div className="mater"><p>Material</p> <div className="mater-name mater-names">{item.material}</div></div>
                         <div className="finish"><p>Finish</p> <div className="finish-name mater-names">{item.finish}</div></div>
                     </div>
+                    <button>Add to cart</button>
+                    <p className="last-p">
+                        Complimentary carbon-neutral shipping on all artisan ceramics.
+                    </p>
                 </div>
             </div>
         </section>
