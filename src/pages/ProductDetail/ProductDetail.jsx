@@ -28,8 +28,8 @@ function ProductDetail() {
                         {item.description}
                     </div>
                     <div className="materials">
-                        <div className="mater"><p>Material</p> {item.material}</div>
-                        <div className="finish"><p>Finish</p> {item.finish}</div>
+                        <div className="mater"><p>Material</p> <div className="mater-name mater-names">{item.material}</div></div>
+                        <div className="finish"><p>Finish</p> <div className="finish-name mater-names">{item.finish}</div></div>
                     </div>
                 </div>
             </div>
