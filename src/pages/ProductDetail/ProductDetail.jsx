@@ -1,21 +1,21 @@
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import data from "../Categories/data.json";
+import { FaArrowLeft } from "react-icons/fa6";
 import "./ProductDetail.css"
 
 function ProductDetail() {
   const { id } = useParams();
-  const product = data.find((item) => item.id === Number(id));
+  const item = data.find((item) => item.id === Number(id));
 
-  if (!product) return <p>Product topilmadi</p>;
+  if (!item) return <p>Product topilmadi</p>;
 
   return (
-    <div className="product-detail">
-      <img src={product.image} alt={product.name} />
-      <h1>{product.name}</h1>
-      <p>{product.collection}</p>
-      <p>{product.description}</p>
-      <span>${product.price}</span>
-    </div>
+    <section className="prod-about-sec">
+         <Link ><FaArrowLeft /> Back to All Products</Link>
+         <div className="addcart">
+            <img src={item.image} alt="" />
+         </div>
+    </section>
   );
 }
 
