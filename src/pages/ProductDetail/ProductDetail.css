@@ -1,12 +1,71 @@
-.prod-about-sec{
+.prod-about-sec {
     width: 100%;
     height: auto;
+    padding: 48px;
 }
-.prod-about-sec p{
+
+.mainpcard {
     font-size: 12px;
     color: #5B6061;
     font-weight: 400;
     line-height: 16px;
     letter-spacing: 1.8px;
     text-transform: uppercase;
+    cursor: pointer;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    margin-bottom: 52px;
+}
+
+.addcart {
+    width: 1184px;
+    height: 830px;
+    display: flex;
+    gap: 64px;
+}
+
+.addcart img {
+    width: 664px;
+    height: 830px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    transition: 0.4s ease-in-out;
+}
+
+.about-addcart {
+    width: 456px;
+    height: 653px;
+    display: flex;
+    flex-direction: column;
+}
+
+.addcart img:hover {
+    transform: scale(1.01);
+}
+
+.about-addcart p {
+    width: 300px;
+    font-size: 12px;
+    color: #5B6061;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 1.8px;
+    text-transform: uppercase;
+    cursor: pointer;
+    display: flex;
+    gap: 4px;
+    margin-bottom: 16px;
+}
+
+.about-addcart h2 {
+    font-family: Manrope;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: -1.8px;
+    color: #2F3334;
 }

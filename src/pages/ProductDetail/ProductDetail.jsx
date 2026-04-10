@@ -1,22 +1,33 @@
-import { Link, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import data from "../Categories/data.json";
 import { FaArrowLeft } from "react-icons/fa6";
+import { useNavigate } from "react-router-dom";
 import "./ProductDetail.css"
 
 function ProductDetail() {
-  const { id } = useParams();
-  const item = data.find((item) => item.id === Number(id));
+    const navigate = useNavigate();
+    const { id } = useParams();
+    const item = data.find((item) => item.id === Number(id));
 
-  if (!item) return <p>Product topilmadi</p>;
+    if (!item) return <p>Product topilmadi</p>;
 
-  return (
-    <section className="prod-about-sec">
-         <Link ><FaArrowLeft /> Back to All Products</Link>
-         <div className="addcart">
-            <img src={item.image} alt="" />
-         </div>
-    </section>
-  );
+    return (
+        <section className="prod-about-sec">
+            <p className="mainpcard" onClick={() => navigate(-1)}><FaArrowLeft /> Back to All Products</p>
+            <div className="addcart">
+                <img src={item.image} alt="" />
+                <div className="about-addcart">
+                    <p><div className="filt" onClick={() => navigate(-1)}>{item.filterType}</div> / <div className="collec">{item.collection}</div></p>
+                    <h2>The Lunar
+                        Vessel</h2>
+                    <div className="price-carts">
+                        <span>${item.price}</span>
+                        <span>${item.oldPrice}</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+    );
 }
 
 export default ProductDetail;
