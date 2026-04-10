@@ -75,6 +75,7 @@
     display: flex;
     gap: 16px;
     align-items: end;
+    margin-bottom: 66px;
 }
 
 .FirstPrice {
@@ -98,6 +99,46 @@
     letter-spacing: 0px;
     vertical-align: middle;
     text-decoration: line-through;
+    color: #5b6061d7;
+
+}
+
+.inform {
+    width: 456px;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 29.25px;
+    letter-spacing: 0px;
+    vertical-align: middle;
     color: #5B6061;
+    margin-bottom: 32px;
+}
+.mater{
+    display: flex;
+}
+.mater p{
+    font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 10px;
+line-height: 15px;
+letter-spacing: 1px;
+vertical-align: middle;
+text-transform: uppercase;
+color: #5B6061;
+
+}
+.finish p{
+    font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 10px;
+line-height: 15px;
+letter-spacing: 1px;
+vertical-align: middle;
+text-transform: uppercase;
+color: #5B6061;
 
 }

@@ -24,6 +24,13 @@ function ProductDetail() {
                         <span className="FirstPrice">${item.price}</span>
                         <span className="OldPrice">${item.oldPrice}</span>
                     </div>
+                    <div className="inform">
+                        {item.description}
+                    </div>
+                    <div className="materials">
+                        <div className="mater"><p>Material</p> {item.material}</div>
+                        <div className="finish"><p>Finish</p> {item.finish}</div>
+                    </div>
                 </div>
             </div>
         </section>
