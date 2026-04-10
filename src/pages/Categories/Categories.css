@@ -1,0 +1,237 @@
+.categories {
+    display: flex;
+}
+
+.sidebar {
+    width: 320px;
+    background: #F8FAFC;
+    padding: 32px;
+    height: 600px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.sidebar-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: #1a1a18;
+    margin: 0 0 4px;
+}
+
+.sidebar-subtitle {
+    font-size: 14px;
+    color: #5B6061;
+    margin: 0 0 24px;
+}
+
+.filter-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.filter-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 14px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 14px;
+    color: #1a1a18;
+    background: transparent;
+    border: none;
+    width: 100%;
+    text-align: left;
+    transition: background 0.15s ease;
+}
+
+.filter-item:hover {
+    background: #f1efe8;
+}
+
+.filter-item.active {
+    background: #e8f2ec;
+    color: #2a6644;
+    font-weight: 500;
+}
+
+.filter-icon {
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.apply-btn {
+    width: 100%;
+    padding: 14px;
+    background: #2e5e42;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    letter-spacing: 0.02em;
+    transition: background 0.15s ease;
+}
+
+.apply-btn:hover {
+    background: #244d36;
+}
+
+.apply-btn:active {
+    transform: scale(0.98);
+}
+
+.main-category {
+    width: 960px;
+    padding: 48px;
+
+}
+
+.resultsearch {
+    width: 864px;
+    height: 162px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 64px;
+}
+
+.resultsearch p {
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+    color: #5B6061;
+}
+
+.resultsearch h2 {
+    font-family: Manrope;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 48px;
+    line-height: 48px;
+    letter-spacing: -1.2px;
+    color: #2F3334;
+    display: flex;
+}
+
+.none-res {
+    font-family: Manrope;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0px;
+    color: #434546;
+    margin-left: 15px;
+
+}
+
+.resultsearch span {
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    color: #5B6061;
+}
+
+.prod-res-ser {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 48px;
+}
+
+.resser-prod {
+    width: 256px;
+    height: 432px;
+}
+
+.resser-prod img {
+    width: 256px;
+    height: 320px;
+    border-radius: 8px;
+}
+
+.about-prod {
+    width: 100%;
+    height: 88px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.about-prod h3 {
+    font-family: Manrope;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    color: #2F3334;
+}
+
+.about-prod p {
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Italic;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0px;
+    color: #5B6061;
+
+}
+
+.price-det {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.price-det:first-child {
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Semi Bold;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    color: #446657;
+
+}
+
+.price-det:last-child {
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Semi Bold;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: -0.6px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #2F3334;
+}
+
+
+.resser-prod {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
