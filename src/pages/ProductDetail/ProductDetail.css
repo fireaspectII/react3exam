@@ -68,4 +68,36 @@
     line-height: 60px;
     letter-spacing: -1.8px;
     color: #2F3334;
+    margin-bottom: 16px;
+}
+
+.price-carts {
+    display: flex;
+    gap: 16px;
+    align-items: end;
+}
+
+.FirstPrice {
+    font-family: Inter;
+    font-weight: 300;
+    font-style: Light;
+    font-size: 30px;
+    line-height: 36px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    text-decoration: none;
+    color: #446657;
+}
+
+.OldPrice {
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    text-decoration: line-through;
+    color: #5B6061;
+
 }

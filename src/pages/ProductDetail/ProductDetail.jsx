@@ -21,8 +21,8 @@ function ProductDetail() {
                     <h2>The Lunar
                         Vessel</h2>
                     <div className="price-carts">
-                        <span>${item.price}</span>
-                        <span>${item.oldPrice}</span>
+                        <span className="FirstPrice">${item.price}</span>
+                        <span className="OldPrice">${item.oldPrice}</span>
                     </div>
                 </div>
             </div>
