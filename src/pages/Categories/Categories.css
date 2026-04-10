@@ -163,6 +163,12 @@
 .resser-prod {
     width: 256px;
     height: 432px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    transition: 0.5s ease-in-out;
+    border-radius: 8px;
+}
+.resser-prod:hover{
+    transform: scale(1.05);
 }
 
 .resser-prod img {
@@ -177,6 +183,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    padding: 10px;
 }
 
 .about-prod h3 {
@@ -231,7 +238,7 @@
 
 
 .resser-prod {
-  text-decoration: none;
-  color: inherit;
-  display: block;
+    text-decoration: none;
+    color: inherit;
+    display: block;
 }
