@@ -71,9 +71,21 @@ margin-bottom: 10px;
     border: none;
     font-size: 16px;
     font-weight: 500;
+    transition: 0.5s ease-in-out;
+}
+.btn-home button:hover{
+    transform: scale(1.05);
 }
 .btn-black{
     background-color: #446657;
+    color: #E5FFF0;
+}
+.btn-black:hover{
+    background-color: #ddd5d5;
+    color: #2F3334;
+}
+.btn-white:hover{
+    background-color: #8aa197;
     color: #E5FFF0;
 }
 .btn-white{
@@ -179,6 +191,13 @@ margin-bottom: 10px;
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
+    transition: 0.5s ease-in-out;
+}
+.button-time button:hover{
+    transform: scale(1.1);
+    background-color: #84d4e4;
+    border: none;
+    color: #446657;
 }
 .newslatter{
     width: 100%;
@@ -234,6 +253,12 @@ margin-bottom: 10px;
     padding: 18px 24px;
     outline: none;
     border: none;
+    transition: 0.5s ease-in-out;
+}
+.btn-newslatter input:hover{
+    background-color: #b0c3c7;
+    border: none;
+    color: #313835;
 }
 .btn-newslatter button{
     width: 141px;
@@ -245,4 +270,9 @@ margin-bottom: 10px;
     line-height: 24px;
     font-weight: 500;
     border: none;
+    transition: 0.5s ease-in-out;
+}
+.btn-newslatter button:hover{
+    background-color: #ddd5d5;
+    color: #2F3334;
 }
