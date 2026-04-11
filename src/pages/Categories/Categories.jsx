@@ -2,6 +2,10 @@ import { useState } from "react";
 import "./Categories.css";
 import data from "./data.json"
 import { Link } from "react-router-dom";
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Autoplay } from "swiper/modules";
+
+import "swiper/css";
 
 const categories = [
   {
@@ -66,6 +70,9 @@ const categories = [
 ];
 
 export default function Categories({ onApply, searchQuery }) {
+  const [imgIndex, setImgIndex] = useState(0);
+
+ 
   const [selected, setSelected] = useState("ceramics");
 
   const handleApply = () => {
@@ -116,9 +123,28 @@ export default function Categories({ onApply, searchQuery }) {
             intention.</span>
         </div>
         <div className="prod-res-ser">
-          {(filteredProduct.length ? filteredProduct : filteredProducts).map(item => (
+          {(filteredProduct.length ? filteredProduct : filteredProducts).map(item =>  (
+            
+            
   <Link to={`/product/${item.id}`} className="resser-prod" key={item.id}>
-    <img src={item.image} alt="" />
+    <Swiper
+  modules={[Autoplay]}
+  autoplay={{ delay: 2000 }}
+  loop={true}
+  className="img-swiper"
+>
+  <SwiperSlide>
+    <img src={item.image} />
+  </SwiperSlide>
+
+  <SwiperSlide>
+    <img src={item.image2} />
+  </SwiperSlide>
+
+  <SwiperSlide>
+    <img src={item.image3} />
+  </SwiperSlide>
+</Swiper>
     <div className="about-prod">
       <h3>{item.name}</h3>
       <p>{item.collection}</p>
