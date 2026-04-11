@@ -12,6 +12,8 @@
     "story": "Born from rich ochre clay dug near the Colorado plateau, this vessel spent 18 hours in a wood-fire kiln before its botanical etchings emerged from the smoke.",
     "description": "Hand-thrown from rich ochre clay and fired at high temperature, this vessel features deeply etched botanical patterns inspired by ancient Southwestern motifs. A bold statement piece for any curated interior.",
     "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=400",
+    "image2": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600",
+    "image3": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=800",
     "types": "All"
   },
   {
@@ -27,6 +29,8 @@
     "story": "Studio ceramicist Lena Voss threw this vase at midnight — the silence, she says, shapes the tension you feel in its sharp geometric shoulders.",
     "description": "Crafted in matte black stoneware with sharp geometric shoulders, this vase channels the quiet tension of modern sculpture. Its dark, light-absorbing surface creates a striking contrast against pale walls.",
     "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=400",
+    "image2": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=600",
+    "image3": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=800",
     "types": "All"
   },
   {
@@ -40,8 +44,10 @@
     "material": "Stoneware",
     "finish": "Layered Turquoise Glaze",
     "story": "Glazed twice, dipped in cold seawater, then fired again — every turquoise fracture in its surface maps a real tide pool from the Oregon coast.",
-    "description": "Glazed in layers of turquoise and teal, this squat bottle evokes sea-worn rock pools and tidal textures. Each piece emerges uniquely from the kiln, making every bottle a one-of-a-kind coastal artifact.",
+    "description": "Glazed in layers of turquoise and teal, this squat bottle evokes sea-worn rock pools and tidal textures.",
     "image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=400",
+    "image2": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=600",
+    "image3": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=800",
     "types": "All"
   },
   {
@@ -54,9 +60,11 @@
     "filterType": "ceramics",
     "material": "Slip-Cast Earthenware",
     "finish": "Cream Satin Glaze",
-    "story": "Slip-cast in the same mold two mornings apart, each vessel carries a faint memory of its sibling — a quiet conversation in cream and white.",
-    "description": "These creamy white vessels are slip-cast with rhythmic vertical ribbing that catches ambient light beautifully. Sold as a complementary duo, they bring quiet texture and understated elegance to any shelf or surface.",
+    "story": "Slip-cast in the same mold two mornings apart, each vessel carries a faint memory of its sibling.",
+    "description": "These creamy white vessels are slip-cast with rhythmic vertical ribbing that catches ambient light beautifully.",
     "image": "https://images.unsplash.com/photo-1617791160536-598cf32026fb?w=400",
+    "image2": "https://images.unsplash.com/photo-1617791160536-598cf32026fb?w=600",
+    "image3": "https://images.unsplash.com/photo-1617791160536-598cf32026fb?w=800",
     "types": "All"
   },
   {
@@ -69,9 +77,11 @@
     "filterType": "ceramics",
     "material": "Iron-Rich Stoneware",
     "finish": "Dark Glaze with Gold Slip Repair",
-    "story": "Cracked intentionally at leather-hard stage, then mended with gold-tinted slip — a meditation on beauty found only after something breaks.",
-    "description": "Inspired by the Japanese philosophy of finding beauty in imperfection, this dark-glazed vessel is hand-burnished and deliberately cracked, then repaired with gold-tinted slip. A philosophical object as much as a decorative one.",
+    "story": "Cracked intentionally at leather-hard stage, then mended with gold-tinted slip.",
+    "description": "Inspired by the Japanese philosophy of finding beauty in imperfection.",
     "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=400",
+    "image2": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=600",
+    "image3": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=800",
     "types": "All"
   },
   {
@@ -84,9 +94,11 @@
     "filterType": "ceramics",
     "material": "White Earthenware",
     "finish": "Hand-Painted Pastel Glaze",
-    "story": "Painted stripe by stripe in a garden studio in Lisbon, this wheel-thrown vase holds the joyful chaos of a summer afternoon in its candy-coloured skin.",
-    "description": "Striped in soft blush, lavender, and mint, this tall vase is wheel-thrown and hand-painted in a playful candy-stripe pattern. It brings a joyful, youthful energy to contemporary interiors without sacrificing craft.",
+    "story": "Painted stripe by stripe in a garden studio in Lisbon.",
+    "description": "Striped in soft blush, lavender, and mint, this tall vase is wheel-thrown and hand-painted.",
     "image": "https://images.unsplash.com/photo-1612196808214-b7e239e5f6b0?w=400",
+    "image2": "https://images.unsplash.com/photo-1612196808214-b7e239e5f6b0?w=600",
+    "image3": "https://images.unsplash.com/photo-1612196808214-b7e239e5f6b0?w=800",
     "types": "All"
   },
   {
@@ -99,9 +111,11 @@
     "filterType": "apothecary",
     "material": "Stoneware",
     "finish": "Sage Green Satin Glaze",
-    "story": "Dried for three weeks on an open New Mexico windowsill, this pitcher absorbed the desert light that now glows faintly through its sage-green glaze.",
-    "description": "Thrown on a slow wheel and dried under desert sun, this tall pitcher carries earthy sage-green tones and a subtly uneven rim that speaks to human hands. Functional yet deeply beautiful, it holds flowers as gracefully as water.",
+    "story": "Dried for three weeks on an open New Mexico windowsill.",
+    "description": "Thrown on a slow wheel and dried under desert sun, this tall pitcher carries earthy sage-green tones.",
     "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+    "image2": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600",
+    "image3": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
     "types": "All"
   },
   {
@@ -114,9 +128,11 @@
     "filterType": "ceramics",
     "material": "White Porcelain",
     "finish": "Milky White Glaze",
-    "story": "Two half-spheres pressed together by hand, this moon jar echoes a 400-year-old Joseon palace tradition — imperfect, luminous, and deeply calming.",
-    "description": "Modeled after the iconic Joseon-era moon jars, this generous spherical form is built from two half-spheres and left in a pure milky white glaze. Its asymmetry and warm luminosity make it a meditative presence in any room.",
+    "story": "Two half-spheres pressed together by hand.",
+    "description": "Modeled after the iconic Joseon-era moon jars.",
     "image": "https://images.unsplash.com/photo-1603189041608-47afe86ab87b?w=400",
+    "image2": "https://images.unsplash.com/photo-1603189041608-47afe86ab87b?w=600",
+    "image3": "https://images.unsplash.com/photo-1603189041608-47afe86ab87b?w=800",
     "types": "All"
   },
   {
@@ -129,9 +145,11 @@
     "filterType": "ceramics",
     "material": "Iron-Rich Clay",
     "finish": "Copper Oxide Drip Glaze",
-    "story": "The copper oxide glaze was mixed with local iron-rich river clay; the river's own minerals now run in amber streaks down every side of this flask.",
-    "description": "Iron-rich clay meets a flowing copper-oxide glaze in this dramatic flask form. The glaze runs and pools naturally during firing, creating molten rivers of amber and rust that are impossible to predict or replicate exactly.",
+    "story": "The copper oxide glaze was mixed with local iron-rich river clay.",
+    "description": "Iron-rich clay meets a flowing copper-oxide glaze in this dramatic flask form.",
     "image": "https://images.unsplash.com/photo-1567225557594-88d73e55f2cb?w=400",
+    "image2": "https://images.unsplash.com/photo-1567225557594-88d73e55f2cb?w=600",
+    "image3": "https://images.unsplash.com/photo-1567225557594-88d73e55f2cb?w=800",
     "types": "All"
   },
   {
@@ -144,9 +162,11 @@
     "filterType": "apothecary",
     "material": "Stoneware",
     "finish": "Slate Grey Matte Glaze",
-    "story": "No wheel, no mold — just thumbs and patience. The maker's fingerprints are sealed inside this bowl's slate-grey glaze as a kind of quiet signature.",
-    "description": "Built entirely by hand without a wheel, this small bowl bears the honest fingerprint impressions of its maker. Finished in a cool slate-grey matte glaze, it is an intimate object — perfect as a ring dish or beside a candle.",
+    "story": "No wheel, no mold — just thumbs and patience.",
+    "description": "Built entirely by hand without a wheel, this small bowl bears the honest fingerprint impressions of its maker.",
     "image": "https://images.unsplash.com/photo-1493106641515-6b5631de4bb9?w=400",
+    "image2": "https://images.unsplash.com/photo-1493106641515-6b5631de4bb9?w=600",
+    "image3": "https://images.unsplash.com/photo-1493106641515-6b5631de4bb9?w=800",
     "types": "All"
   },
   {
@@ -159,9 +179,11 @@
     "filterType": "apothecary",
     "material": "Porcelain",
     "finish": "Pale Jade Celadon Glaze",
-    "story": "A single carved line circles the body before firing — an homage to 12th-century Song craftsmen who believed one unbroken mark held the world together.",
-    "description": "Inspired by classical Chinese celadon ware, this footed cup shimmers in a pale jade glaze over a delicate carved body. It is equally at home as a sake vessel or a small bud vase holding a single stem.",
+    "story": "A single carved line circles the body before firing.",
+    "description": "Inspired by classical Chinese celadon ware, this footed cup shimmers in a pale jade glaze.",
     "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=400",
+    "image2": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=600",
+    "image3": "https://images.unsplash.com/photo-1603189041608-47afe86ab87b?w=800",
     "types": "All"
   },
   {
@@ -174,9 +196,11 @@
     "filterType": "ceramics",
     "material": "Raku Clay",
     "finish": "Smoke-Fired Crackle Glaze",
-    "story": "Pulled from the kiln at 900°C and plunged into newspaper — the combustion writes the crackle pattern you see. The fire was the final artist.",
-    "description": "Pulled from the kiln at peak temperature and smoked in a steel drum, this raku bowl carries a lustrous black surface with unpredictable crackle patterns. No two pieces share the same character — the fire decides the final form.",
+    "story": "Pulled from the kiln at 900°C and plunged into newspaper.",
+    "description": "Pulled from the kiln at peak temperature and smoked in a steel drum.",
     "image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=400",
+    "image2": "https://images.unsplash.com/photo-1567225557594-88d73e55f2cb?w=600",
+    "image3": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=800",
     "types": "All"
   },
   {
@@ -189,9 +213,11 @@
     "filterType": "ceramics",
     "material": "Earthenware",
     "finish": "Dusty Rose Glaze, Unglazed Base",
-    "story": "Each coil was rolled by hand on a linen cloth; the ridges you trace with your finger are the same ridges the maker traced the morning it was built.",
-    "description": "Built using the ancient coiling technique, this vase retains the subtle ridges of its construction as a design feature. Glazed in dusty rose with an unglazed lower half, it celebrates the raw material alongside refined surface.",
+    "story": "Each coil was rolled by hand on a linen cloth.",
+    "description": "Built using the ancient coiling technique, this vase retains the subtle ridges of its construction.",
     "image": "https://images.unsplash.com/photo-1612196808214-b7e239e5f6b0?w=400",
+    "image2": "https://images.unsplash.com/photo-1617791160536-598cf32026fb?w=600",
+    "image3": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=800",
     "types": "All"
   },
   {
@@ -204,9 +230,11 @@
     "filterType": "ceramics",
     "material": "Earthenware",
     "finish": "Sandy Buff Glaze",
-    "story": "Real Oregon fern fronds were pressed into the soft clay before sunrise; by the time the glaze was applied, they had become part of the earth again.",
-    "description": "Real botanical specimens are pressed into soft clay before firing, leaving ghostly leaf and fern impressions across this wide serving plate. Finished in a sandy buff glaze, it feels like a discovered artifact from another era.",
+    "story": "Real Oregon fern fronds were pressed into the soft clay before sunrise.",
+    "description": "Real botanical specimens are pressed into soft clay before firing.",
     "image": "https://images.unsplash.com/photo-1493106641515-6b5631de4bb9?w=400",
+    "image2": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600",
+    "image3": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
     "types": "All"
   },
   {
@@ -219,9 +247,11 @@
     "filterType": "furniture",
     "material": "White Stoneware",
     "finish": "Cobalt Indigo Dip Glaze",
-    "story": "Rolled from a single slab of white stoneware, then folded into sharp planes — this vase asks whether a vessel can also be a building, a blueprint, a home.",
-    "description": "Hand-built from rolled slabs of white stoneware and dipped in a deep cobalt-indigo glaze, this angular vase challenges the expected roundness of ceramics. Its flat planes and sharp creases make it a sculptural object first.",
+    "story": "Rolled from a single slab of white stoneware, then folded into sharp planes.",
+    "description": "Hand-built from rolled slabs of white stoneware and dipped in a deep cobalt-indigo glaze.",
     "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=400",
+    "image2": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=600",
+    "image3": "https://images.unsplash.com/photo-1567225557594-88d73e55f2cb?w=800",
     "types": "All"
   },
   {
@@ -234,9 +264,11 @@
     "filterType": "apothecary",
     "material": "Terracotta",
     "finish": "Unglazed Natural",
-    "story": "Modelled on Victorian florist bricks found in a Bristol antique market, this brick has hosted a hundred bouquets — and is ready for a hundred more.",
-    "description": "Modeled after antique florist bricks, this low rectangular vessel has five cylindrical holes for arranging stems in Ikebana style. Its warm unglazed terracotta surface develops a natural patina with regular use and water.",
+    "story": "Modelled on Victorian florist bricks found in a Bristol antique market.",
+    "description": "Modeled after antique florist bricks, this low rectangular vessel has five cylindrical holes.",
     "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+    "image2": "https://images.unsplash.com/photo-1493106641515-6b5631de4bb9?w=600",
+    "image3": "https://images.unsplash.com/photo-1603189041608-47afe86ab87b?w=800",
     "types": "All"
   },
   {
@@ -249,9 +281,11 @@
     "filterType": "ceramics",
     "material": "Translucent Porcelain",
     "finish": "Unglazed Polished",
-    "story": "Thrown so thin you can read newspaper through the walls — this bud vase is the ceramicist asking how little clay it takes to still call something a vessel.",
-    "description": "Thrown from translucent porcelain on an electric wheel and left unadorned, this slender bud vase celebrates the material itself. When held to light, the thinness of the walls glows warmly — a quiet meditation on simplicity.",
+    "story": "Thrown so thin you can read newspaper through the walls.",
+    "description": "Thrown from translucent porcelain on an electric wheel and left unadorned.",
     "image": "https://images.unsplash.com/photo-1617791160536-598cf32026fb?w=400",
+    "image2": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600",
+    "image3": "https://images.unsplash.com/photo-1612196808214-b7e239e5f6b0?w=800",
     "types": "All"
   },
   {
@@ -264,9 +298,11 @@
     "filterType": "furniture",
     "material": "Stoneware",
     "finish": "Iron & Manganese Oxide Glaze",
-    "story": "Three layers of iron oxide were brushed on and scraped back before firing, coaxing a surface that photographs as metal but yields softly to the touch.",
-    "description": "A wood-fired pot whose exterior is brushed with layers of iron and manganese oxides, producing a surface that mimics hammered bronze. The interior reveals a contrasting pale slip glaze, creating a dramatic inside-outside dialogue.",
+    "story": "Three layers of iron oxide were brushed on and scraped back before firing.",
+    "description": "A wood-fired pot whose exterior is brushed with layers of iron and manganese oxides.",
     "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=400",
+    "image2": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=600",
+    "image3": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=800",
     "types": "All"
   },
   {
@@ -279,9 +315,11 @@
     "filterType": "ceramics",
     "material": "Stoneware",
     "finish": "Shifting Lavender Satin Glaze",
-    "story": "Glazed under a fog machine in a highland studio, the lavender mist that drifted over wet clay is what you see shifting across its surface today.",
-    "description": "A graceful bottle with a narrow neck and swollen body, glazed in shifting lavender and grey tones that change under different lighting conditions. Its smooth, cloud-like surface invites touch as much as admiration.",
+    "story": "Glazed under a fog machine in a highland studio.",
+    "description": "A graceful bottle with a narrow neck and swollen body, glazed in shifting lavender and grey tones.",
     "image": "https://images.unsplash.com/photo-1612196808214-b7e239e5f6b0?w=400",
+    "image2": "https://images.unsplash.com/photo-1617791160536-598cf32026fb?w=600",
+    "image3": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
     "types": "All"
   },
   {
@@ -294,9 +332,11 @@
     "filterType": "furniture",
     "material": "Stoneware",
     "finish": "Crawling Desert Glaze",
-    "story": "The crawling glaze was mixed with coarse desert sand; as it shrank during firing, it split and settled into the sun-cracked earth pattern it had always wanted to be.",
-    "description": "The surface of this cylindrical planter is deliberately textured to resemble sun-cracked desert earth, achieved by applying a special crawling glaze. Drainage hole included, making it as practical as it is striking for indoor plants.",
+    "story": "The crawling glaze was mixed with coarse desert sand.",
+    "description": "The surface of this cylindrical planter is deliberately textured to resemble sun-cracked desert earth.",
     "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=400",
+    "image2": "https://images.unsplash.com/photo-1567225557594-88d73e55f2cb?w=600",
+    "image3": "https://images.unsplash.com/photo-1493106641515-6b5631de4bb9?w=800",
     "types": "All"
   },
   {
@@ -309,9 +349,11 @@
     "filterType": "apothecary",
     "material": "Stoneware",
     "finish": "Frothy Aquamarine Glaze",
-    "story": "Glazed in frothy aquamarine, this yunomi was inspired by a dawn walk on a black-sand beach — the moment the tide retreats and leaves white lace on dark stone.",
-    "description": "A Japanese-style yunomi tea cup glazed in frothy aquamarine and white, evoking ocean foam crashing on shore. Comfortable to hold with both hands, it transforms an everyday tea ritual into something quietly ceremonial.",
+    "story": "Glazed in frothy aquamarine, this yunomi was inspired by a dawn walk on a black-sand beach.",
+    "description": "A Japanese-style yunomi tea cup glazed in frothy aquamarine and white.",
     "image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=400",
+    "image2": "https://images.unsplash.com/photo-1603189041608-47afe86ab87b?w=600",
+    "image3": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=800",
     "types": "All"
   },
   {
@@ -324,9 +366,11 @@
     "filterType": "apothecary",
     "material": "Iron-Bearing Clay",
     "finish": "Reduction-Fired Near-Black Glaze",
-    "story": "Months in the making — the bamboo handle alone took six attempts to wrap without splitting. When you pour from this teapot, you feel the patience it required.",
-    "description": "Wheel-thrown in dark iron-bearing clay and reduction fired, this teapot achieves a near-black surface with deep blue flashes visible in bright light. Its bamboo-wrapped handle and hand-formed spout reflect months of careful craft.",
+    "story": "Months in the making — the bamboo handle alone took six attempts.",
+    "description": "Wheel-thrown in dark iron-bearing clay and reduction fired, this teapot achieves a near-black surface.",
     "image": "https://images.unsplash.com/photo-1603189041608-47afe86ab87b?w=400",
+    "image2": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=600",
+    "image3": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=800",
     "types": "All"
   },
   {
@@ -339,9 +383,11 @@
     "filterType": "finish",
     "material": "Earthenware",
     "finish": "Warm Sandy Bisque",
-    "story": "The maker spent a week in the Sahara before building this — the undulating form is not an imitation of a dune, it is the memory of one specific dune at noon.",
-    "description": "An abstract hand-built sculpture that mimics the rippled undulations of a sand dune, finished in a warm sandy bisque with subtle ochre highlights. It exists purely as art — no function beyond presence and contemplation.",
+    "story": "The maker spent a week in the Sahara before building this.",
+    "description": "An abstract hand-built sculpture that mimics the rippled undulations of a sand dune.",
     "image": "https://images.unsplash.com/photo-1493106641515-6b5631de4bb9?w=400",
+    "image2": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600",
+    "image3": "https://images.unsplash.com/photo-1612196808214-b7e239e5f6b0?w=800",
     "types": "All"
   },
   {
@@ -354,9 +400,11 @@
     "filterType": "ceramics",
     "material": "Stoneware",
     "finish": "Deep Forest Green with Wood-Ash Drips",
-    "story": "Wood-ash from a studio fire dripped down the shoulders during the final kiln firing — a happy accident the maker chose to celebrate rather than hide.",
-    "description": "Inspired by ancient Mediterranean storage vessels, this two-handled amphora is glazed in a deep forest green with subtle wood-ash drips along its shoulders. It bridges thousands of years of ceramic tradition with contemporary studio practice.",
+    "story": "Wood-ash from a studio fire dripped down the shoulders during the final kiln firing.",
+    "description": "Inspired by ancient Mediterranean storage vessels, this two-handled amphora is glazed in a deep forest green.",
     "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+    "image2": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=600",
+    "image3": "https://images.unsplash.com/photo-1493106641515-6b5631de4bb9?w=800",
     "types": "All"
   },
   {
@@ -369,9 +417,11 @@
     "filterType": "finish",
     "material": "Stoneware",
     "finish": "Natural Wood-Ash White Glaze",
-    "story": "Each aperture was cut by hand with a needle tool at 2am; the maker says the dark room helped her judge the light she was trying to let through.",
-    "description": "Pierced with delicate geometric apertures and glazed in natural wood-ash white, this lantern vessel glows warmly when a tealight is placed inside. By day it is an elegant object; by night it becomes a source of soft, patterned light.",
+    "story": "Each aperture was cut by hand with a needle tool at 2am.",
+    "description": "Pierced with delicate geometric apertures and glazed in natural wood-ash white.",
     "image": "https://images.unsplash.com/photo-1617791160536-598cf32026fb?w=400",
+    "image2": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=600",
+    "image3": "https://images.unsplash.com/photo-1567225557594-88d73e55f2cb?w=800",
     "types": "All"
   },
   {
@@ -384,9 +434,11 @@
     "filterType": "ceramics",
     "material": "Stoneware",
     "finish": "Russet Amber Glaze",
-    "story": "Filled with cider on the night it was finished, this jug was declared complete when the studio cat sat beside it and refused to leave — a reliable critic.",
-    "description": "A wide-bodied jug with a generous handle and pouring lip, glazed in warm russet and amber tones reminiscent of autumn harvest light. Fully functional for liquids and beautifully proportioned for display on open kitchen shelving.",
+    "story": "Filled with cider on the night it was finished.",
+    "description": "A wide-bodied jug with a generous handle and pouring lip, glazed in warm russet and amber tones.",
     "image": "https://images.unsplash.com/photo-1567225557594-88d73e55f2cb?w=400",
+    "image2": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600",
+    "image3": "https://images.unsplash.com/photo-1619682817481-e994891cd1f5?w=800",
     "types": "All"
   },
   {
@@ -399,9 +451,11 @@
     "filterType": "finish",
     "material": "Stoneware",
     "finish": "Warm Grey & Cream Satin Glaze",
-    "story": "Three river pebbles carried home in a jacket pocket became the templates; each vessel was shaped against the original stone and holds its memory in the clay.",
-    "description": "Three hand-formed vessels of graduating size, each smoothed to resemble a river pebble and glazed in warm grey and cream. Arranged together they create a meditative still life; separately each holds a candle, succulent, or small bouquet.",
+    "story": "Three river pebbles carried home in a jacket pocket became the templates.",
+    "description": "Three hand-formed vessels of graduating size, each smoothed to resemble a river pebble.",
     "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=400",
+    "image2": "https://images.unsplash.com/photo-1603189041608-47afe86ab87b?w=600",
+    "image3": "https://images.unsplash.com/photo-1617791160536-598cf32026fb?w=800",
     "types": "All"
   },
   {
@@ -414,9 +468,11 @@
     "filterType": "finish",
     "material": "Stoneware",
     "finish": "Rich Emerald Pooling Glaze",
-    "story": "Cut with a wire tool while still wet, each facet catches light differently as the day moves — the bottle tells time in emerald and shadow.",
-    "description": "Each face of this multifaceted bottle is carefully cut from thrown clay before firing, creating a gem-like silhouette. The rich emerald glaze pools differently in each carved plane, giving the surface the depth and complexity of precious stone.",
+    "story": "Cut with a wire tool while still wet, each facet catches light differently as the day moves.",
+    "description": "Each face of this multifaceted bottle is carefully cut from thrown clay before firing.",
     "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=400",
+    "image2": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600",
+    "image3": "https://images.unsplash.com/photo-1612196808214-b7e239e5f6b0?w=800",
     "types": "All"
   }
 ]
