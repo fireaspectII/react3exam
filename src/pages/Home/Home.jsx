@@ -27,14 +27,14 @@ function Home() {
         <div className="products-home">
             {
                 data.map(item  =>(
-                    <div className="enter-product" key={item.id}>
+                    <Link to={`/product/${item.id}`} className="enter-product" key={item.id}>
                        <img src={item.image} alt={item.name} />
                        <div className="sec-product">
                         <div className="line-first"><div className="name">{item.name}</div> <div className="price">${item.price}</div></div>
                        <p className='des-product'>{item.description}</p>
                        <p className='detal'>View Details →</p>
                        </div>
-                    </div>
+                    </Link>
                 )
             )
             }

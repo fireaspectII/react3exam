@@ -3,11 +3,12 @@ import data from "../Categories/data.json";
 import { FaArrowLeft } from "react-icons/fa6";
 import { useNavigate } from "react-router-dom";
 import "./ProductDetail.css"
+import data2 from "../Home/data.json"
 
 function ProductDetail() {
     const navigate = useNavigate();
     const { id } = useParams();
-    const item = data.find((item) => item.id === Number(id));
+    const item = data.find((item) => item.id === Number(id)) || data2.find((item) => item.id === Number(id));
 
     if (!item) return <p>Product topilmadi</p>;
 
