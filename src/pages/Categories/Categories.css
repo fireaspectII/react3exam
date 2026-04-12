@@ -31,6 +31,9 @@
     list-style: none;
     padding: 0;
     margin: 0 0 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
 }
 .filtertype li {
     display: flex;
@@ -46,7 +49,7 @@
     border-radius: 10px;
     margin-right: 40px;
 }
-.filtertype li:focus, .filtertype li:hover {
+.filtertype li.active, .filtertype li:hover {
     transform: scale(1.05);
     background-color: #c6f7e1;
 }

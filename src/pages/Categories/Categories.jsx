@@ -40,11 +40,11 @@ export default function Categories({ onApply, searchQuery }) {
         <p className="sidebar-subtitle">Refine by category</p>
 
         <ul className="filtertype">
-          <li onClick={() => setFilter("all")}><BiCategory /> All Collections</li>
-          <li onClick={() => setFilter("ceramics")}><LuFlower2 /> Ceramics</li>
-          <li onClick={() => setFilter("finish")}><TbBackground /> Textiles</li>
-          <li onClick={() => setFilter("furniture")}><TbSofa /> Furniture</li>
-          <li onClick={() => setFilter("apothecary")}><BsStars /> Apothecary</li>
+          <li className={filter === "textiles" ? "active" : ""} onClick={() => setFilter("all")}><BiCategory /> All Collections</li>
+          <li className={filter === "ceramics" ? "active" : ""} onClick={() => setFilter("ceramics")}><LuFlower2 /> Ceramics</li>
+          <li className={filter === "finish" ? "active" : ""} onClick={() => setFilter("finish")}><TbBackground /> Textiles</li>
+          <li className={filter === "furniture" ? "active" : ""} onClick={() => setFilter("furniture")}><TbSofa /> Furniture</li>
+          <li className={filter === "apothecary" ? "active" : ""} onClick={() => setFilter("apothecary")}><BsStars /> Apothecary</li>
         </ul>
 
         <button className="apply-btn">
