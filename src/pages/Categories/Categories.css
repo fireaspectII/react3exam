@@ -27,50 +27,28 @@
     color: #5B6061;
     margin: 0 0 24px;
 }
-
-.filter-list {
+.filtertype{
     list-style: none;
     padding: 0;
     margin: 0 0 32px;
+}
+.filtertype li {
     display: flex;
-    flex-direction: column;
+    align-items: center;
     gap: 8px;
-}
-
-.filter-item {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    padding: 10px 14px;
-    border-radius: 8px;
-    cursor: pointer;
-    font-weight: 400;
     font-size: 14px;
-    color: #1a1a18;
-    background: transparent;
-    border: none;
-    width: 100%;
-    text-align: left;
-    transition: background 0.15s ease;
+    color: #2F3334;
+    cursor: pointer;
+    padding: 0 5px;
+    transition:  0.5s ease-in-out;
+    width: 256px;
+    height: 44px;
+    border-radius: 10px;
+    margin-right: 40px;
 }
-
-.filter-item:hover {
-    background: #f1efe8;
-}
-
-.filter-item.active {
-    background: #e8f2ec;
-    color: #2a6644;
-    font-weight: 500;
-}
-
-.filter-icon {
-    width: 22px;
-    height: 22px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-shrink: 0;
+.filtertype li:focus, .filtertype li:hover {
+    transform: scale(1.05);
+    background-color: #c6f7e1;
 }
 
 .apply-btn {
