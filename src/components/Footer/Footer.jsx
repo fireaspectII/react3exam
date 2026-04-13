@@ -21,8 +21,9 @@ function Footer() {
         <li>Journal</li>
       </ul>
       </div>
-      <div className="footersecond">
-        <div className="curated same">
+      <div className="footersecond dnfooter2">
+        <div className="dnforfooter">
+          <div className="curated same">
            <BsStars className='samefont'/>
            <p>Curated</p>
         </div>
@@ -37,6 +38,7 @@ function Footer() {
         <div className="profile same">
           <FaRegUser className='samefont'/>
           <p>Profile</p>
+        </div>
         </div>
       </div>
     </section>
