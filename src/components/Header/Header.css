@@ -14,11 +14,16 @@
     font-weight: 700;
     line-height: 32px;
 }
-nav{
+.nav{
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 40px;
+}
+.menu-btn{
+    display: none;
+    font-size: 17px;
+    color: #446657;
 }
 
 .links-nav {
@@ -50,6 +55,9 @@ nav{
 .links-nav:hover::after {
   width: 100%;
 }
+.header h2{
+    display: none;
+}
 .search-btn{
     display: flex;
     gap: 16px;
@@ -75,4 +83,36 @@ nav{
 }
 .icon-head{
     font-size: 18px;
+}
+@media (max-width: 390px) {
+    .header {
+        padding: 0 24px;
+    }
+    .header h1 {
+        display: none;
+    }
+    .header h2 {
+        display: block;
+        color: #022C22;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 24px;
+        margin-left: -100px;
+    }
+    .icon-head {
+        display: none;
+    }
+    .menu-btn {
+        display: block;
+    }
+    .nav{
+        display: none;
+    }
+   
+    .search {
+        width: auto;
+    }
+    .search input {
+        display: none;
+    }
 }

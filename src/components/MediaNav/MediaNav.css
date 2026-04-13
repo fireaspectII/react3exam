@@ -1,0 +1,26 @@
+.nav-mobile {
+    width: 100px;
+    height: auto;
+    background-color: #219696;
+    color: #064E3B;
+    display: block;
+    flex-direction: column;
+}
+
+
+@media screen and (max-width: 390px) {
+     .nav-mobile {
+        display: block;
+        position: absolute;
+        top: 50px;
+        width: 220px;
+        background: white;
+        padding: 20px;
+        transition: 0.3s;
+
+    }
+
+    .nav-mobile.active {
+        right: 0;
+    }
+}

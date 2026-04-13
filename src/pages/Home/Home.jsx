@@ -7,6 +7,7 @@ function Home() {
   return (
     <section className="home">
        <div className="hero">
+        
          <p className='zindex-5'>Volume I: The Spring Edit</p>
         <span className='zindex-5'><h2 className='first-h2'>Curated Living for the</h2><h2 className='second-h2'>Modern Home</h2></span>
         <div className="btn-home zindex-5" >
