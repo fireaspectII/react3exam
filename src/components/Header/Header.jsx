@@ -6,12 +6,15 @@ import { BsCart3 } from "react-icons/bs";
 import { FaRegUser } from "react-icons/fa";
 import { IoMenu } from "react-icons/io5";
 import { useState } from 'react';
+import MediaNav from '../MediaNav/MediaNav';
 
-function Header({setSearchQuery,searchQuery,}) {
-
+function Header({setSearchQuery,searchQuery,setMenuOpen,menuOpen}) {
+  const toggleMenu = () => {
+    setMenuOpen(!menuOpen);
+  };
   return (
     <section className="header">
-      <div className="menu-btn" onClick={() => setMenuOpen(!menuOpen)}>
+      <div className="menu-btn" onClick={toggleMenu}>
         <IoMenu/>
       </div>
       <h1>The Ethereal Marketplace</h1>

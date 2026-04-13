@@ -14,7 +14,7 @@ function App() {
     const [menuOpen, setMenuOpen] = useState(false);
   return (
     <section className="container">
-      <Header setSearchQuery={setSearchQuery} searchQuery={searchQuery} setMenuOpen={setMenuOpen} />
+      <Header setSearchQuery={setSearchQuery} searchQuery={searchQuery} setMenuOpen={setMenuOpen} menuOpen={menuOpen} />
       <MediaNav menuOpen={menuOpen} />
       <Routes>
         <Route path='/' element={<Home />}/>

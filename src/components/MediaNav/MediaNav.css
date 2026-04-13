@@ -1,20 +1,25 @@
 .nav-mobile {
     width: 100px;
-    height: auto;
-    background-color: #219696;
+    height: 400px;
+    background-color: #40ffffe0;
     color: #064E3B;
-    display: block;
-    flex-direction: column;
+    display: none;
+    flex-wrap: wrap;
+    z-index: 7;
+    margin-top: 34px;
+    border-radius: 15px;
+}
+.links-nav{
+    width: 100%;
 }
 
 
 @media screen and (max-width: 390px) {
      .nav-mobile {
-        display: block;
         position: absolute;
         top: 50px;
         width: 220px;
-        background: white;
+        background: rgba(216, 211, 211, 0.719);
         padding: 20px;
         transition: 0.3s;
 
