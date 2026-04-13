@@ -8,8 +8,9 @@ function Home() {
     <section className="home">
        <div className="hero">
         
-         <p className='zindex-5'>Volume I: The Spring Edit</p>
-        <span className='zindex-5'><h2 className='first-h2'>Curated Living for the</h2><h2 className='second-h2'>Modern Home</h2></span>
+         <p className='zindex-5 zinde-7'>Volume I: The Spring Edit</p>
+         <p className='zindex-6'>Sustainable Living</p>
+        <span className='zindex-5 zindex-8'><h2 className='first-h2'>Curated Living for the</h2><h2 className='second-h2'>Modern Home</h2></span>
         <div className="btn-home zindex-5" >
             <button className='btn-black'>Explore Collections</button>
             <button className='btn-white'>The Artisan Story</button>
