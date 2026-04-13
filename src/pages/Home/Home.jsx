@@ -56,6 +56,13 @@ function Home() {
             </div>
             <span>Inspired by intention. Never spam.</span>
         </div>
+        <div className="journal">
+            <p>Journal</p>
+            <h2>The Art of Intentional Living</h2>
+            <span>Explore our latest editorial on creating
+spaces that breathe and inspire.</span>
+            <button>Read Journal</button>
+        </div>
     </section>
   )
 }
